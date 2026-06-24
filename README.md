@@ -1,57 +1,72 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=180&section=header&animation=fadeIn" />
+
 <div align="center">
 
-# 👨‍💻 Gabriel Vicente de Lacerda
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=800&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Gabriel+Vicente+de+Lacerda;Full+Stack+Developer+em+Formação;JS+%7C+PHP+%7C+React+%7C+Node.js;Engenharia+de+Software)](https://git.io/typing-svg)
 
-### Full Stack Developer em formação | Engenharia de Software
+### 🚀 Full Stack Developer em formação | Engenharia de Software
 
 <p>
-Desenvolvedor em formação focado em criar aplicações web completas, do front-end ao back-end.
+Desenvolvedor em formação focado em criar aplicações web completas, do front-end ao back-end, com foco em boas práticas, escalabilidade e experiências modernas.
 </p>
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software e desenvolvedor em formação com foco em **desenvolvimento Full Stack**.
+Sou estudante de Engenharia de Software e estou em constante evolução como desenvolvedor **Full Stack**.
 
-Tenho interesse em construir aplicações modernas, escaláveis e bem estruturadas, trabalhando tanto no **front-end quanto no back-end**.
+Tenho como objetivo dominar o ciclo completo de desenvolvimento de aplicações web, desde interfaces modernas até APIs robustas e bem estruturadas.
 
-Atualmente estou aprofundando meus estudos em JavaScript e evoluindo minhas habilidades para atuar com tecnologias como React, TypeScript e Node.js.
-
----
-
-## 🧠 Stack atual
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,laravel,mysql,git,github,vscode" />
-
-</p>
+Atualmente foco meus estudos em **JavaScript**, construindo uma base sólida para evoluir para arquiteturas modernas no front-end e back-end.
 
 ---
 
-## 📚 Em aprendizado contínuo
+## 🧠 Tecnologias que uso
 
-- JavaScript (avançando para padrões modernos)
-- TypeScript
-- React / React Native
-- Node.js e APIs REST
-- Estruturas de Dados e Arquitetura de Software
+### 🎨 Front-end
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React (em aprendizado)
+
+### ⚙️ Back-end
+- Node.js (em aprendizado)  
+- PHP  
+- Laravel  
+
+### 🗄️ Banco de Dados
+- MySQL  
+
+### 🛠️ Ferramentas
+- Git & GitHub  
+- VS Code  
 
 ---
 
-## 🛠️ Projetos em destaque
+## 📚 O que estou estudando atualmente
+
+- JavaScript moderno (ES6+)
+- Consumo de APIs REST
+- React e componentização
+- Node.js e criação de APIs
+- Arquitetura de aplicações web
+- TypeScript (introdução)
+
+---
+
+## 🚧 Projetos em desenvolvimento
 
 ### 📅 Agendamento Unificado
-Plataforma de agendamento personalizável para pequenos negócios, com foco em escalabilidade e automação.
+Sistema de agendamento personalizável para pequenos negócios com foco em automação e escalabilidade.
 
 ### 🛠️ SERVIX
-Sistema de intermediação entre clientes e prestadores de serviço com base em localização.
+Plataforma de intermediação de serviços baseada em localização, conectando clientes e prestadores.
 
-### 🏪 Soluções para comércio local
-Ferramentas digitais voltadas para pequenos empreendedores e gestão simplificada.
+### 🏙️ Projetos Full Stack pessoais
+Construção de aplicações completas para prática de front-end + back-end + banco de dados.
 
 ---
 
@@ -69,6 +84,8 @@ Ferramentas digitais voltadas para pequenos empreendedores e gestão simplificad
 
 <div align="center">
 
-💡 Construindo hoje as soluções que vão rodar amanhã em produção.
+💡 “Construindo aplicações reais enquanto evoluo como Full Stack Developer.”
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=180&section=footer" />
