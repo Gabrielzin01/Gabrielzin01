@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=800&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Gabriel+Vicente+de+Lacerda;Full+Stack+Developer+em+Formação;JS+%7C+PHP+%7C+React+%7C+Node.js;Engenharia+de+Software)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=800&size=25&pause=1000&color=BF17C8&background=000CFF00&center=true&vCenter=true&width=435&lines=Gabriel+Vicente+de+Lacerda;+JS%7C+PHP+%7C+REACT%7CBANCO+DE+DADOS;Estudante+de+Engenharia+de+Sofware)](https://git.io/typing-svg)
 
 ### 🚀 Full Stack Developer em formação | Engenharia de Software
 
