@@ -2,10 +2,10 @@
 
 # 👨‍💻 Gabriel Vicente de Lacerda
 
-### Estudante de Engenharia de Software • Desenvolvedor Full Stack em formação
+### Full Stack Developer em formação | Engenharia de Software
 
 <p>
-  Atualmente estudando JavaScript e construindo uma base sólida para atuar com desenvolvimento Full Stack.
+Desenvolvedor em formação focado em criar aplicações web completas, do front-end ao back-end.
 </p>
 
 </div>
@@ -14,56 +14,54 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software e apaixonado por tecnologia.
+Sou estudante de Engenharia de Software e desenvolvedor em formação com foco em **desenvolvimento Full Stack**.
 
-Gosto de transformar ideias em projetos, desenvolver aplicações web e aprender novas tecnologias. Atualmente estou focado em JavaScript e me preparando para aprofundar meus conhecimentos em TypeScript, React e React Native.
+Tenho interesse em construir aplicações modernas, escaláveis e bem estruturadas, trabalhando tanto no **front-end quanto no back-end**.
 
-Meu objetivo é atuar como Desenvolvedor Full Stack, criando aplicações completas desde o front-end até o back-end.
+Atualmente estou aprofundando meus estudos em JavaScript e evoluindo minhas habilidades para atuar com tecnologias como React, TypeScript e Node.js.
 
 ---
 
-## 🛠️ Tecnologias
+## 🧠 Stack atual
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,laravel,mysql,git,github,vscode" />
 
 </p>
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Em aprendizado contínuo
 
-* JavaScript
-* Estruturas de Dados
-* Engenharia de Software
-* Desenvolvimento Web
+- JavaScript (avançando para padrões modernos)
+- TypeScript
+- React / React Native
+- Node.js e APIs REST
+- Estruturas de Dados e Arquitetura de Software
 
 ---
 
-## 💡 Projetos
+## 🛠️ Projetos em destaque
 
 ### 📅 Agendamento Unificado
-
-Sistema de agendamento personalizável para pequenos negócios.
+Plataforma de agendamento personalizável para pequenos negócios, com foco em escalabilidade e automação.
 
 ### 🛠️ SERVIX
+Sistema de intermediação entre clientes e prestadores de serviço com base em localização.
 
-Plataforma para conectar clientes e prestadores de serviços.
-
-### 🏪 Comércio Local
-
-Soluções digitais para fortalecer pequenos empreendedores.
+### 🏪 Soluções para comércio local
+Ferramentas digitais voltadas para pequenos empreendedores e gestão simplificada.
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabrielzin01&show_icons=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabrielzin01&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielzin01&layout=compact" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielzin01&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -71,6 +69,6 @@ Soluções digitais para fortalecer pequenos empreendedores.
 
 <div align="center">
 
-⭐ Aprendendo hoje para construir as soluções de amanhã.
+💡 Construindo hoje as soluções que vão rodar amanhã em produção.
 
 </div>
