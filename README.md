@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=180&section=header&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&animation=fadeIn" />
 
 <div align="center">
 
@@ -88,4 +88,4 @@ Construção de aplicações completas para prática de front-end + back-end + b
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=180&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=footer" />
