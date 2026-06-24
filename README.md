@@ -1,70 +1,76 @@
-# Olá, meu nome é Gabriel Vicente.
+<div align="center">
 
-🎓 Estudante de Engenharia de Software  
-🎓 Técnico em Tecnologia da Informação  
+# 👨‍💻 Gabriel Vicente de Lacerda
 
-<p>
-Em formação na área de desenvolvimento de software, com base técnica adquirida no curso de TI, onde tive meu primeiro contato com programação e desenvolvimento de sistemas. Atualmente busco aprimorar conhecimentos por meio da graduação e de projetos práticos.
-</p>
+### Estudante de Engenharia de Software • Desenvolvedor Full Stack em formação
 
 <p>
-<a href="https://www.linkedin.com/in/gabriel-vicente-990376398/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  Atualmente estudando JavaScript e construindo uma base sólida para atuar com desenvolvimento Full Stack.
 </p>
 
-
-</p>
-
-  
-  ---
-
-<h2>CONHECIMENTOS</h2>
-<div>
- <h3>📚 Em estudo / Aprimorando conhecimentos</h3>
-<p>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-
-</p>
-  <h3>🧠 Conhecimentos iniciais</h3>
-<p>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-</p>
-<h3>⚙️ Frameworks (contato prático)</h3>
-<p>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-</p>
-<h3>🗄️ Banco de Dados</h3>
-<p>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</p>
-  
 </div>
 
 ---
 
- ## 🎯Foco atual
+## 🚀 Sobre mim
 
-- Projetos Web e Mobile com as linguagens
-- Estudo e aprimoramento de conhecimentos
+Sou estudante de Engenharia de Software e apaixonado por tecnologia.
+
+Gosto de transformar ideias em projetos, desenvolver aplicações web e aprender novas tecnologias. Atualmente estou focado em JavaScript e me preparando para aprofundar meus conhecimentos em TypeScript, React e React Native.
+
+Meu objetivo é atuar como Desenvolvedor Full Stack, criando aplicações completas desde o front-end até o back-end.
+
 ---
-## 📩 Contato
-📍 Ubatiba – Maricá / RJ
-<p>
-  📞 WhatsApp: (21) 997088334
-  📧 gabrielvicentetrabalho02@gmail.com
+
+## 🛠️ Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode" />
+
 </p>
 
+---
 
+## 📚 Atualmente estudando
 
+* JavaScript
+* Estruturas de Dados
+* Engenharia de Software
+* Desenvolvimento Web
 
-  
+---
 
+## 💡 Projetos
 
+### 📅 Agendamento Unificado
+
+Sistema de agendamento personalizável para pequenos negócios.
+
+### 🛠️ SERVIX
+
+Plataforma para conectar clientes e prestadores de serviços.
+
+### 🏪 Comércio Local
+
+Soluções digitais para fortalecer pequenos empreendedores.
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabrielzin01&show_icons=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielzin01&layout=compact" />
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Aprendendo hoje para construir as soluções de amanhã.
+
+</div>
