@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E1E45&height=180&section=header&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=180&section=header&animation=fadeIn" />
 
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=800&size=25&pause=1000&color=BF17C8&background=000CFF00&center=true&vCenter=true&width=435&lines=Gabriel+Vicente+de+Lacerda;+JS%7C+PHP+%7C+REACT%7CBANCO+DE+DADOS;Estudante+de+Engenharia+de+Software)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=800&size=25&pause=1000&color=D3D3FF&background=000CFF00&center=true&vCenter=true&width=435&lines=Gabriel+Vicente+de+Lacerda;+JS%7C+PHP+%7C+REACT%7CBANCO+DE+DADOS;Estudante+de+Engenharia+de+Software)](https://git.io/typing-svg)
 
 ### 🚀 Full Stack Developer em formação | Engenharia de Software
 
@@ -88,4 +88,4 @@ Construção de aplicações completas para prática de front-end + back-end + b
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E1E45&height=180&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=180&section=footer" />
